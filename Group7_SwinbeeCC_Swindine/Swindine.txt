@@ -1,0 +1,17 @@
+Here is your register history. Date:9/12/2024 4:22:02 PM
+
+Student name: Swindine
+Student ID: 111111111
+
+~~~~RICE MENU ORDER LIST~~~~
+       Menu	    Quantity
+[A01]Nasi Lemak		1
+[A02]Chicken Rice	0
+[A03]Biryani		0
+[A04]Nasi Kerabu	0
+[A05]Nasi Kandar	0
+[A06]Nasi Goreng	1
+
+Here is your paying history.
+Spending: RM17.82
+Points: + 17.82
